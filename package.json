@@ -1,0 +1,20 @@
+{
+	"name": "wyzant",
+  "main": "app.js",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skilbjo/wyzant.git"
+  },
+  "engines": {
+    "node": "6.2.21"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "jshintConfig": {
+    "laxcomma": true
+  }
+}
